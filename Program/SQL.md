@@ -1,4 +1,4 @@
-### group
+### GROUP BY
 
 GROUP BY comes after WHERE
 ```c
