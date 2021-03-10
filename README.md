@@ -1,6 +1,6 @@
 # README.md Syntax
 
-**Source code block**
+### Source code block
 ```python
 if __name__ = "__main__":
   print("Hi")
@@ -11,14 +11,14 @@ if __name__ = "__main__":
   print("Hi")
 ` ` `  
 ```
-**Link**
+### Link
 
 [Blog Adress](https://blog.naver.com/ndb796)
 ```base
 [Blog Adress](https://blog.naver.com/ndb796)
 ```
 
-**UL**
+### UL 
 
 * Git Tutorial
   * git clone
@@ -32,7 +32,7 @@ if __name__ = "__main__":
   * git pull
 ```
 
-**Table**
+### Table
 Name|Englsh|Math|
 ---|---|---|
 Eric|100|100|
@@ -43,7 +43,7 @@ Name|Englsh|Math|
 Eric|100|100|
 ```
 
-**Image**
+### Image
 <img src="./pm2-1.png" alt="pm2" />
 
 **Bold** ~~Out~~
