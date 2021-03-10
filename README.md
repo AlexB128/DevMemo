@@ -1,13 +1,9 @@
 # README.md Syntax
 
 **Source code block**
-```c
-# include <stdio.h>
-
-int main(void) {
-  printf("Hello World!");
-  return 0;
-}
+```python
+if __name__ = "__main__":
+  print("Hi")
 ```
 
 **Link**
@@ -41,6 +37,9 @@ Name|Englsh|Math|
 ---|---|---|
 Eric|100|100|
 ```
+
+**Image**
+<img src="./pm2-1.png" alt="pm2" />
 
 **Bold** ~~Out~~
 ```base
