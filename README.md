@@ -9,16 +9,6 @@ int main(void) {
   return 0;
 }
 ```
-```c
-```c
-# include <stdio.h>
-
-int main(void) {
-  printf("Hello World!");
-  return 0;
-}
-```
-```
 
 **Link**
 
@@ -42,6 +32,9 @@ int main(void) {
 ```
 
 **Table**
+Name|Englsh|Math|
+---|---|---|
+Eric|100|100|
 
 ```base
 Name|Englsh|Math|
