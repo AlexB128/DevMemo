@@ -10,4 +10,4 @@ pm2 stop 0
 pm2 delete 0
 ```
 
-<img src="./pm2-1.png" alt="pm2" />
+<img src="../files/pm2-1.png" alt="pm2" />
