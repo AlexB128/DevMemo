@@ -46,6 +46,7 @@ Eric|100|100|
 ### Image
 <img src="./pm2-1.png" alt="pm2" />
 
+# Bold / Out
 **Bold** ~~Out~~
 ```base
 **Bold** ~~Out~~
