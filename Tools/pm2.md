@@ -1,9 +1,9 @@
 # pm2
 
-```base
+```
 npm install -g pm2
 ```
-```base
+```
 pm2 start app.js
 pm2 list
 pm2 stop 0
