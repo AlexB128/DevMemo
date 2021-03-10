@@ -1,6 +1,6 @@
-### README.md Syntax
+# README.md Syntax
 
-Source code block
+**Source code block**
 ```c
 # include <stdio.h>
 
@@ -9,22 +9,47 @@ int main(void) {
   return 0;
 }
 ```
+```c
+```c
+# include <stdio.h>
 
-Link
+int main(void) {
+  printf("Hello World!");
+  return 0;
+}
+```
+```
+
+**Link**
 
 [Blog Adress](https://blog.naver.com/ndb796)
+```base
+[Blog Adress](https://blog.naver.com/ndb796)
+```
 
-UL
+**UL**
 
 * Git Tutorial
   * git clone
   * git push
   * git pull
 
-Table
+```base
+* Git Tutorial
+  * git clone
+  * git push
+  * git pull
+```
 
+**Table**
+
+```base
 Name|Englsh|Math|
 ---|---|---|
 Eric|100|100|
+```
 
-**Python** ~~Javascript~~
+**Bold** ~~Out~~
+```base
+**Bold** ~~Out~~
+```
