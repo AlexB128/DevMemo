@@ -5,12 +5,12 @@
 if __name__ = "__main__":
   print("Hi")
 ```
-```base
-` ` `python
+~~~
+```python
 if __name__ = "__main__":
   print("Hi")
-` ` `  
 ```
+~~~
 ### Link
 
 [Blog Adress](https://blog.naver.com/ndb796)
@@ -25,7 +25,7 @@ if __name__ = "__main__":
   * git push
   * git pull
 
-```base
+```
 * Git Tutorial
   * git clone
   * git push
@@ -37,7 +37,7 @@ Name|Englsh|Math|
 ---|---|---|
 Eric|100|100|
 
-```base
+```
 Name|Englsh|Math|
 ---|---|---|
 Eric|100|100|
