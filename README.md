@@ -5,7 +5,12 @@
 if __name__ = "__main__":
   print("Hi")
 ```
-
+```base
+` ` `python
+if __name__ = "__main__":
+  print("Hi")
+` ` `  
+```
 **Link**
 
 [Blog Adress](https://blog.naver.com/ndb796)
