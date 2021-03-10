@@ -1,9 +1,9 @@
-### lpm2
+# pm2
 
-```c
+```base
 npm install -g pm2
 ```
-```c
+```base
 pm2 start app.js
 pm2 list
 pm2 stop 0

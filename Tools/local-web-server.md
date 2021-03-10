@@ -1,9 +1,9 @@
-### local-web-server
+# local-web-server
 
-```c
+```base
 npm install -g local-web-server
 ```
-```c
+```base
 ws --https --port 999 --open index.html
 ```
 

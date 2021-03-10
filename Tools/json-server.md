@@ -1,9 +1,9 @@
-### json-server
+# json-server
 
-```c
+```base
 npm install -g json-server
 ```
-```c
+```base
 json-server --host 0.0.0.0 --watch ./db.json --port 3001
 ```
 
